@@ -1,0 +1,7 @@
+main.c:45:6:READ_STATUS	8	static
+main.c:54:6:WRITE_ENABLE	8	static
+main.c:60:6:EEPROM_WRITE	16	static
+main.c:73:6:EEPROM_WRITE_PAGE	16	static
+main.c:86:6:EEPROM_READ	16	static
+main.c:102:7:EEPROM_READ_PAGE	24	static
+main.c:112:5:main	16	static

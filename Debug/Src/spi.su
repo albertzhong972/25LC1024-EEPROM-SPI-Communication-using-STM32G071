@@ -1,0 +1,7 @@
+spi.c:10:6:SPI1_Config	8	static
+spi.c:59:6:SPI1_Enable	8	static
+spi.c:64:6:SPI1_Disable	8	static
+spi.c:72:6:SPI1_DummyRead	8	static
+spi.c:81:6:SPI1_SendChar	16	static
+spi.c:89:6:SPI1_SendString	16	static
+spi.c:101:6:SPI1_ReadChar	16	static
